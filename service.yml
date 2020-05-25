@@ -58,3 +58,4 @@ exclude_patterns:
   - "seed/"
   - "assets/"
   - "swagger/"
+  - "**/config.js"
