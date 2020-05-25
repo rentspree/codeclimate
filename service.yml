@@ -58,4 +58,3 @@ exclude_patterns:
   - "seed/"
   - "assets/"
   - "swagger/"
-  - "**/*.json"
