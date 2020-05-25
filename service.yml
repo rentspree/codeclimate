@@ -57,3 +57,4 @@ exclude_patterns:
   - "private-key/"
   - "seed/"
   - "assets/"
+  - "swagger/"
