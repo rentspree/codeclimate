@@ -56,3 +56,4 @@ exclude_patterns:
   - "certs/"
   - "private-key/"
   - "seed/"
+  - "assets/"
