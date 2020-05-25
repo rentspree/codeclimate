@@ -53,3 +53,6 @@ exclude_patterns:
   - "**/*.d.ts"
   - "app/legacy/"
   - "internals/generators/"
+  - "config/"
+  - "docs/"
+  - "**/__test__/"
